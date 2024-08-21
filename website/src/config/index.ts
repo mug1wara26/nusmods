@@ -64,6 +64,7 @@ export type Config = {
     githubOrg: string;
     githubRepo: string;
     messenger: string;
+    telegram: string;
     twitter: string;
   };
 

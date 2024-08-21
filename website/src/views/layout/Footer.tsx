@@ -48,7 +48,7 @@ export const FooterComponent: React.FC<Props> = (props) => {
             <ExternalLink href={config.contact.facebook}>Facebook</ExternalLink>
           </li>
           <li>
-            <ExternalLink href={config.contact.messenger}>Messenger</ExternalLink>
+            <ExternalLink href={config.contact.telegram}>Telegram</ExternalLink>
           </li>
           <li>
             <ExternalLink href={config.contact.twitter}>Twitter</ExternalLink>

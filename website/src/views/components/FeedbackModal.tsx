@@ -18,7 +18,7 @@ type Props = {
 export const FeedbackButtons: React.FC = () => (
   <div>
     <div className={styles.links}>
-      <ExternalLink className={styles.messenger} href={config.contact.messenger}>
+      <ExternalLink className={styles.telegram} href={config.contact.telegram}>
         <Send />
         Telegram
       </ExternalLink>
