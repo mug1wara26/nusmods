@@ -52,8 +52,8 @@ export const FeedbackModalComponent: React.FC<Props> = (props) => (
       <Heart className={styles.topIcon} />
       <h1>Let us know what you think!</h1>
       <p>
-        Thank you for your time! You can talk to us on Messenger, file an issue on GitHub, or send
-        us an email.
+        Thank you for your time! You can talk to us on Telegram, file an issue on GitHub, or send us
+        an email.
       </p>
       <FeedbackButtons />
     </div>
